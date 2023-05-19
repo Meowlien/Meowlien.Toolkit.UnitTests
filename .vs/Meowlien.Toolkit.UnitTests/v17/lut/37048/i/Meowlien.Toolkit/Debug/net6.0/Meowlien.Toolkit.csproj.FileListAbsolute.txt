@@ -1,0 +1,10 @@
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit.UnitTests\.vs\Meowlien.Toolkit.UnitTests\v17\lut\0\b\Meowlien.Toolkit\Debug\net6.0\Meowlien.Toolkit.deps.json
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit.UnitTests\.vs\Meowlien.Toolkit.UnitTests\v17\lut\0\b\Meowlien.Toolkit\Debug\net6.0\Meowlien.Toolkit.dll
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit.UnitTests\.vs\Meowlien.Toolkit.UnitTests\v17\lut\0\i\Meowlien.Toolkit\Debug\net6.0\Meowlien.Toolkit.csproj.AssemblyReference.cache
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit.UnitTests\.vs\Meowlien.Toolkit.UnitTests\v17\lut\0\i\Meowlien.Toolkit\Debug\net6.0\Meowlien.Toolkit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit.UnitTests\.vs\Meowlien.Toolkit.UnitTests\v17\lut\0\i\Meowlien.Toolkit\Debug\net6.0\Meowlien.Toolkit.AssemblyInfoInputs.cache
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit.UnitTests\.vs\Meowlien.Toolkit.UnitTests\v17\lut\0\i\Meowlien.Toolkit\Debug\net6.0\Meowlien.Toolkit.AssemblyInfo.cs
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit.UnitTests\.vs\Meowlien.Toolkit.UnitTests\v17\lut\0\i\Meowlien.Toolkit\Debug\net6.0\Meowlien.Toolkit.csproj.CopyComplete
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit.UnitTests\.vs\Meowlien.Toolkit.UnitTests\v17\lut\0\i\Meowlien.Toolkit\Debug\net6.0\Meowlien.Toolkit.dll
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit.UnitTests\.vs\Meowlien.Toolkit.UnitTests\v17\lut\0\i\Meowlien.Toolkit\Debug\net6.0\refint\Meowlien.Toolkit.dll
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit.UnitTests\.vs\Meowlien.Toolkit.UnitTests\v17\lut\0\i\Meowlien.Toolkit\Debug\net6.0\ref\Meowlien.Toolkit.dll

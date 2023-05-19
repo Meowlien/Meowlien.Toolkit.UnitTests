@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "XwgK25kIZgANUwDj5Ij5KIS3H0zTMmzoU3KDNiwSUT9Dn6FdQ4n1GqXZETCx7QDRIdJsmUKL+u/KGthAYIbcWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Waylon\\Meowlien\\Workspace\\Projects\\SVC\\Meowlien.Toolkit.UnitTests\\Meowlien.Toolkit.UnitTests\\Meowlien.Toolkit.UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\waylon.yuen\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\waylon.yuen\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "C:\\Users\\waylon.yuen\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "C:\\Users\\waylon.yuen\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "C:\\Users\\waylon.yuen\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\waylon.yuen\\.nuget\\packages\\mstest.testadapter\\3.0.2\\mstest.testadapter.3.0.2.nupkg.sha512",
+    "C:\\Users\\waylon.yuen\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512",
+    "C:\\Users\\waylon.yuen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\waylon.yuen\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\waylon.yuen\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
